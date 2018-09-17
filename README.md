@@ -9,9 +9,9 @@ It's a simple pcb to powered your gameboy sp with raspberry pi w
 - TP4056 for charging 
 - battery monitor "ads1015" "optional"
 - support 3 way for charging 
-1- original sp port
-2- micro usb
-3- wireless charging
+- 1 original sp port
+- 2 micro usb
+- 3 wireless charging
 -----
 
 ### Building steps :
