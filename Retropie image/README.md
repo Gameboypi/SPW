@@ -15,7 +15,7 @@ This is a prepared reteopie image for this build
 
 #### Installing :
 unzip the image and burn it to your sd card using [Etcher](https://etcher.io/) or any similar application.
------
 
+-----
 #### Download link :
 [Click here](http://www.mediafire.com/file/923btg9b0tm33x0/SPW_v1.zip)
