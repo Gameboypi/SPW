@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/Gameboypi/SPW/master/images/retropie.png)
-### Prepared Raspberry pi zero [RetroPie](https://retropie.org.uk/) image
+### PRE-MADE Raspberry pi zero [RetroPie](https://retropie.org.uk/) image
 This is a prepared reteopie image for this build
  
 #### Specifications :
