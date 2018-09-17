@@ -12,6 +12,7 @@ It's a simple pcb to powered your gameboy sp with raspberry pi w
 1- original sp port
 2- micro usb
 3- wireless charging
+-----
 
 ### Building steps :
 
@@ -19,8 +20,10 @@ It's a simple pcb to powered your gameboy sp with raspberry pi w
 #### [2- Build guide](https://github.com/Gameboypi/SPW/tree/master/Build%20guide)
 #### [3- Closing the case](https://github.com/Gameboypi/SPW/tree/master/Closing%20the%20case)
 #### [4- Download RetroPie image](https://github.com/Gameboypi/SPW/tree/master/Retropie%20image)
+-----
 
 ### Parts list :
+-----
 
 ### Tips :
 - ##### board thickness is " 0.8 " other than that will not fit.
