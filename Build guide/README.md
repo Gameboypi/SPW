@@ -2,7 +2,7 @@
 
 ![](https://github.com/Gameboypi/SPW/blob/master/Build%20guide/1.jpg)
 +speaker ^
-### Image of the pcd
+### Image of the pcb
 ![](https://github.com/Gameboypi/SPW/blob/master/Build%20guide/2.JPG)
 ### 1- Top of the pcb soldering your buttons + adafruit i2s audio + screen connector
 ![](https://github.com/Gameboypi/SPW/blob/master/Build%20guide/3.JPG)
