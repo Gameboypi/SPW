@@ -1,4 +1,4 @@
-# Closing the case
+# 3- Closing the case
 
 ### Prepare your screen lens and lined up on the screen
 ![](https://github.com/Gameboypi/SPW/blob/master/Closing%20the%20case/1.JPG)

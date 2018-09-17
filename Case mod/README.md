@@ -1,4 +1,4 @@
-# Case mod
+# 1- Case mod
 ### Remove all the parts indicated by the arrow
 
 ![](https://github.com/Gameboypi/SPW/blob/master/Case%20mod/1.JPG)
