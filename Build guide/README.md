@@ -24,6 +24,8 @@ Soldering the port and try it out the charger should flash blue light so it's wo
 ### Try the board (buttons + sound + screen) everything should work well, if not double check your soldering.
 ![](https://github.com/Gameboypi/SPW/blob/master/Build%20guide/10.JPG)
 
+-----
+
 ### More images
 ![](https://github.com/Gameboypi/SPW/blob/master/Build%20guide/11.JPG)
 ![](https://github.com/Gameboypi/SPW/blob/master/Build%20guide/22.JPG)
