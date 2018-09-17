@@ -4,9 +4,9 @@
 +speaker ^
 ### Image of the pcb
 ![](https://github.com/Gameboypi/SPW/blob/master/Build%20guide/2.JPG)
-### 1- Top of the pcb soldering your buttons + adafruit i2s audio + screen connector
+### 1- `Top of the pcb` soldering your buttons + adafruit i2s audio + screen connector
 ![](https://github.com/Gameboypi/SPW/blob/master/Build%20guide/3.JPG)
-### 2- Bottom of the pcb soldering your L&R Buttons + TP4506 charger + Battery terminal
+### 2- `Bottom of the pcb` soldering your L&R Buttons + TP4506 charger + Battery terminal
 ![](https://github.com/Gameboypi/SPW/blob/master/Build%20guide/4.JPG)
 ### 3- soldering your power switch
 ![](https://github.com/Gameboypi/SPW/blob/master/Build%20guide/5-1.JPG)
