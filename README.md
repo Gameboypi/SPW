@@ -20,7 +20,7 @@ It's a simple pcb to powered your gameboy sp with raspberry pi w
 - Buy a good quality housing 
 - ##### A little patience
 
-### Steps :
+### Building steps :
 
 #### [1- Case mod](https://github.com/Gameboypi/SPW/tree/master/Case%20mod)
 #### [2- Build guide](https://github.com/Gameboypi/SPW/tree/master/Build%20guide)
