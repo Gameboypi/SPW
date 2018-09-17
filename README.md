@@ -28,7 +28,7 @@ It's a simple pcb to powered your gameboy sp with raspberry pi w
 
 ### Parts list :
 | 1 |
-
+| ------------------------------------------------------------ |
 
 
 
