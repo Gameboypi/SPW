@@ -1,6 +1,5 @@
 ![](https://raw.githubusercontent.com/Gameboypi/SPW/master/images/retropie.png)
 ### PRE-MADE Raspberry Pi zero [RetroPie](https://retropie.org.uk/) image
-This is a prepared reteopie image for this build
  
 ### Specifications :
 - I2s adafruit audio
