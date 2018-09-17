@@ -9,7 +9,7 @@ This is a prepared reteopie image for this build
 - Edit the system font size 
 - Delete the samba 
 - Configure RetroArch settings
-- I2s battery monitor + safe shutdown by [HoolyHoo](https://github.com/HoolyHoo/Mintybatterymonitor)
+- Battery monitor + safe shutdown by [HoolyHoo](https://github.com/HoolyHoo/Mintybatterymonitor)
 - Removing game start up box
 
 #### Installing :
