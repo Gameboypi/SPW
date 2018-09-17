@@ -19,6 +19,5 @@ This is a prepared reteopie image for this build
 
 -----
 
-#
-## Installing :
+### Installing :
 unzip the image and burn it to your sd card using [Etcher](https://etcher.io/) or any similar application.
