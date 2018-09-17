@@ -26,7 +26,6 @@ It's a simple pcb to powered your gameboy sp with raspberry pi w
 #### [2- Build guide](https://github.com/Gameboypi/SPW/tree/master/Build%20guide)
 #### [3- Closing the case](https://github.com/Gameboypi/SPW/tree/master/Closing%20the%20case)
 
--
 
 
 
