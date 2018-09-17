@@ -26,9 +26,9 @@ It's a simple pcb to powered your gameboy sp with raspberry pi w
 -----
 
 ### Tips :
-- ##### board thickness is " 0.8 " other than that will not fit.
-- You must have experience in what you do "I do not recommend you if this is your first build"
-- ##### I am not responsible for any damage you may get
-- Buy a good quality housing 
-- ##### A little patience
+- [x] I am not responsible for any damage you may get
+- [x] board thickness is " 0.8 " other than that will not fit.
+- [x] You must have experience in what you do "I do not recommend you if this is your first build"
+- [x] Buy a good quality housing 
+- [x] A little patience
 
