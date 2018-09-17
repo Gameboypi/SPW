@@ -7,7 +7,7 @@ It's a simple pcb to powered your gameboy sp with raspberry pi w
 - i2s audio
 - Gpio buttons " a + b + x + y + l + r + up + down + left + right + start + select "
 - TP4056 for charging 
-- battery monitor "ads1015" "optional"
+- Battery monitor ADS1015 "optional"
 - support 3 way for charging 
 - [x] original sp port
 - [x] micro usb
