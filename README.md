@@ -1,4 +1,4 @@
-<img src="images/logo.png" width="60%">
+<img src="images/logo1.png" width="60%">
 It's a simple pcb to powered your gameboy sp with raspberry pi w
 
 
