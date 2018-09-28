@@ -2,19 +2,20 @@
 It's a simple pcb to powered your gameboy sp with raspberry pi w
 
 
-### Features :
-- support 2 ili9341 screen sizes 2.8 + 3.2
+### Features : 
+
+- Support 2 ili9341 screen sizes 2.8 + 3.2
 - i2s audio
 - Gpio buttons " a + b + x + y + l + r + up + down + left + right + start + select "
 - TP4056 for charging 
 - Battery monitor ADS1015 "optional"
-- support 3 way for charging 
-- [x] original sp port
-- [x] micro usb
-- [x] wireless charging
+- Support 3 way for charging 
+- [x] Original sp port
+- [x] Micro usb
+- [x] Wireless charging
 -----
 
-### Building steps :
+###  Build Instructions :
 
 #### [1- Modifying SP Case](https://github.com/Gameboypi/SPW/blob/master/Modifying%20sp%20case/README.md)
 #### [2- PCB Assembly](https://github.com/Gameboypi/SPW/tree/master/PCB%20Assembly/README.md)
