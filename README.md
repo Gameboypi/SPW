@@ -24,6 +24,10 @@ It's a simple pcb to powered your gameboy sp with raspberry pi w
 
 ### Parts list :
 #### [wiki](https://github.com/Gameboypi/SPW/wiki)
+
+SKRRABE010 7.5 x 7 `Buttons` | [aliexpress](https://bit.ly/2DO9Q5t)
+
+SKRBAAE010 4.8 x 4.8 `Buttons` | [aliexpress](https://bit.ly/2xMj4JI)
  
 -----
 
