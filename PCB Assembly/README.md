@@ -21,7 +21,7 @@ install the SP port and try it out the charger should flash blue light so it's w
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/8.JPG)
 ### 7- install your screen
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/9.JPG)
-### Try the board (buttons + sound + screen) everything should work well, if not double check your soldering.
+### Check the board (buttons + sound + screen) everything should work well, if not double check your soldering.
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/10.JPG)
 
 -----
