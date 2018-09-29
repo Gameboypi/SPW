@@ -22,7 +22,7 @@
 - Select + A = `Save game States`
 - Select + B = `Load game States`
 - Select + L = `Toggle Battery`
-- Holde Brightness button for 3s = `Shutdown the system`
+- Hold Brightness button for 3s = `Shutdown the system`
 
 -----
 
