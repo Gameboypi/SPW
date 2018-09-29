@@ -13,6 +13,19 @@
 
 -----
 
+### Board shortcuts :
+
+- Select + Dpad UP = Volume Up
+- Select + Dpad Down = Volume Down
+- Select + L = Toggle Battery 
+- Select + A = Save game States
+- Select + B = Load game States
+- Select + Dpad Right = Change save state slots
+- Select + Dpad Left = Change save state slots
+- Holde Brightness button for 3s = Shutdown the system
+
+-----
+
 ### Download link :
 ##### [Click here](http://www.mediafire.com/file/923btg9b0tm33x0/SPW_v1.zip)
 
@@ -20,3 +33,5 @@
 
 ### Installing :
 unzip the image and burn it to your sd card using [Etcher](https://etcher.io/) or any similar application.
+
+-----
