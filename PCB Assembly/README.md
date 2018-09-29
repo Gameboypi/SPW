@@ -15,7 +15,7 @@ Cut all the pins Except those referred to
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/55.JPG)
 install the SP port and try it out the charger should flash blue light so it's working!!
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/66.JPG)
-### 5- install your raspberry pi Take your time to work on this part and do not get too welded like me! :x
+### 5- install your raspberry pi.
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/7.JPG)
 ### 6- install the screen connector + risistor
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/8.JPG)
