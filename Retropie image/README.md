@@ -15,14 +15,14 @@
 
 ### Board shortcuts :
 
-- Select + Dpad UP = Volume Up
-- Select + Dpad Down = Volume Down
-- Select + Dpad Right = Change save state slots
-- Select + Dpad Left = Change save state slots
-- Select + A = Save game States
-- Select + B = Load game States
-- Select + L = Toggle Battery 
-- Holde Brightness button for 3s = Shutdown the system
+- Select + Dpad UP = `Volume Up`
+- Select + Dpad Down = `Volume Down`
+- Select + Dpad Right = `Change save state slots`
+- Select + Dpad Left = `Change save state slots`
+- Select + A = `Save game States`
+- Select + B = `Load game States`
+- Select + L = `Toggle Battery`
+- Holde Brightness button for 3s = `Shutdown the system`
 
 -----
 
