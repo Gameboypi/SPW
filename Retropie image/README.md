@@ -21,7 +21,7 @@
 - Select + Dpad Left = `Change save state slots`
 - Select + A = `Save game States`
 - Select + B = `Load game States`
-- Select + L = `Toggle Battery`
+- Hold L button for 2s = `Toggle Battery`
 - Hold Brightness button for 3s = `Shutdown the system`
 
 -----
