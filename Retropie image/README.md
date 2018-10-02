@@ -27,7 +27,7 @@
 -----
 
 ### Download link :
-##### [Click here](http://www.mediafire.com/file/923btg9b0tm33x0/SPW_v1.zip)
+##### [Click here](http://www.mediafire.com/file/rcp9urfjojwwf24/SPW_v1.img.zip)
 
 -----
 
