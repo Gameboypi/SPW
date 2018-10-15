@@ -39,7 +39,7 @@ It's a simple pcb to powered your gameboy sp with raspberry pi w
 https://ko-fi.com/gameboypi 
 
 ### Get In Touch
-Instagram [<img src="images/ig.png" width="40px">] : 
+- #### Instagram [<img src="images/ig.png" width="40px">] : 
 https://www.instagram.com/gameboypi/
-Email [<img src="images/email.png" width="40px">] : 
+- #### Email [<img src="images/email.png" width="40px">] : 
 G4meboyPi@gmail.com
