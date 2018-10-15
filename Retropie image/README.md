@@ -21,13 +21,13 @@
 - Select + Dpad Left = `Change save state slots`
 - Select + A = `Save game States`
 - Select + B = `Load game States`
-- Hold L button for 2s = `Toggle Battery`
-- Hold Brightness button for 3s = `Shutdown the system`
+- Holding L button = `Toggle Battery`
+- Holding Brightness button = `Shutdown the system`
 
 -----
 
 ### Download link :
-##### [Click here]( )
+##### [Click here](https://www.mediafire.com/file/nraf0f8q0h4alni/SPW_v1.zip)
 
 -----
 
