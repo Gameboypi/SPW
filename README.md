@@ -40,7 +40,7 @@ https://ko-fi.com/gameboypi
 -----
 
 ### Get In Touch
-- #### Instagram <img src="images/ig.png" width="10px"> : 
+- #### <img src="images/ig.png" width="20px"> Instagram : 
 https://www.instagram.com/gameboypi/
-- #### Email <img src="images/email.png" width="10px"> : 
+- #### <img src="images/email.png" width="20px"> Email : 
 G4meboyPi@gmail.com
