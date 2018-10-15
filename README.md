@@ -36,7 +36,7 @@ It's a simple pcb to powered your gameboy sp with raspberry pi w
 -----
 
 ### Buy me a Coffee ☕
-https://ko-fi.com/gameboypi 
+#### https://ko-fi.com/gameboypi 
 -----
 
 ### Get In Touch
