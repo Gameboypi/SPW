@@ -24,7 +24,6 @@ It's a simple pcb to powered your gameboy sp with raspberry pi w
 
 ### Parts list :
 #### [wiki](https://github.com/Gameboypi/SPW/wiki)
- 
 -----
 
 ### Note :
@@ -34,12 +33,14 @@ It's a simple pcb to powered your gameboy sp with raspberry pi w
 - [x] You must have experience in what you do "I do not recommend you if this is your first build"
 - [x] Buy a good quality housing 
 - [x] A little patience
+-----
 
 ### Buy me a Coffee ☕
 https://ko-fi.com/gameboypi 
+-----
 
 ### Get In Touch
-- #### Instagram <img src="images/ig.png" width="40px"> : 
+- #### Instagram <img src="images/ig.png" width="10px"> : 
 https://www.instagram.com/gameboypi/
-- #### Email <img src="images/email.png" width="40px"> : 
+- #### Email <img src="images/email.png" width="10px"> : 
 G4meboyPi@gmail.com
