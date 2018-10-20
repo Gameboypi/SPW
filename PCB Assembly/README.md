@@ -10,10 +10,10 @@
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/4.JPG)
 ### 3- install the power switch
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/5-1.JPG)
-### 4- (This part is optional if you want to use original sp charging port )
+### 4- (This part is optional if you want to use the original sp charging port )
 Cut all the pins Except those referred to 
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/55.JPG)
-install the SP port and try it out the charger should flash blue light so it's working!!
+install the SP port and try it out, the charger should flash blue light so it's working!!
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/66.JPG)
 ### 5- install your raspberry pi.
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/7.JPG)

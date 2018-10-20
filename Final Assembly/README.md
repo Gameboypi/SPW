@@ -1,6 +1,6 @@
 # 3- Final Assembly
 
-### Prepare your screen lens and lined up on the screen
+### Prepare your screen lens and lined them up on the screen
 ![](https://github.com/Gameboypi/SPW/blob/master/Final%20Assembly/1.JPG)
 ![](https://github.com/Gameboypi/SPW/blob/master/Final%20Assembly/2.JPG)
 ### Unplug the screen ribbon cable
