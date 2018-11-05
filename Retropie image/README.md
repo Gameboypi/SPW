@@ -35,3 +35,4 @@
 unzip the image and burn it to your sd card using [Etcher](https://etcher.io/) or any similar application.
 
 -----
+##### Note : After you installed the image go to Retropie -> raspi-config -> Advanced Options -> Expand Filesystem and reboot . 
