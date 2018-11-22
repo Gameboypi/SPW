@@ -16,7 +16,7 @@
 ![](https://github.com/Gameboypi/SPW/blob/master/3.2%20screen/3.JPG)
 ![](https://github.com/Gameboypi/SPW/blob/master/3.2%20screen/4.JPG)
 ![](https://github.com/Gameboypi/SPW/blob/master/3.2%20screen/5.JPG)
-### Draw an outlines on the screen.
+### Draw an outlines in the acrylic sheet.
 ![](https://github.com/Gameboypi/SPW/blob/master/3.2%20screen/6.JPG)
 ![](https://github.com/Gameboypi/SPW/blob/master/3.2%20screen/7.JPG)
 ### Place the tape on the drawn lines and move it slightly into the inside.
