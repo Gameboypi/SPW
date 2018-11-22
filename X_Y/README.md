@@ -19,7 +19,7 @@
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/5.JPG)
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/6.JPG)
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/8.JPG)
-### The holes must be this way.
+### The holes should have a slight bend shape and this will be made by the drill step bit. 
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/9.JPG)
 ### Trim these parts in the buttons .
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/10.JPG)
