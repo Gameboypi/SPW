@@ -2,11 +2,11 @@
 
 
 ### Tools you need :
-#### 1-Step Drill Bit 
+### 1-Step Drill Bit 
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/1.JPG)
-#### 2- Hot Glue Gun
+### 2- Hot Glue Gun
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/1-2.JPG)
-#### 3- Scalpel 
+### 3- Scalpel 
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/1-3.JPG)
 
 -----
@@ -29,7 +29,7 @@
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/13.JPG)
 ### No need for RUBBER PADS.
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/14.JPG)
-### finally! It should work just as well as the original buttons :D .
+### Finally! It should work just as well as the original buttons :D .
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/15.JPG)
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/16.JPG)
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/17.JPG)
