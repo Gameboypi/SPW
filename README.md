@@ -21,6 +21,11 @@ It's a simple pcb to powered your gameboy sp with raspberry pi w
 #### [4- Final Assembly](https://github.com/Gameboypi/SPW/tree/master/Final%20Assembly/README.md)
 #### [5- Download RetroPie image (Software)](https://github.com/Gameboypi/SPW/tree/master/Retropie%20image/README.md)
 -----
+### Guides : 
+#### [1- X & Y Buttons](https://github.com/Gameboypi/SPW/blob/master/X_Y/README.md)
+#### [2- 3.2 screen](https://github.com/Gameboypi/SPW/blob/master/3.2%20screen/README.md)
+-----
+
 
 ### Parts list :
 #### [wiki](https://github.com/Gameboypi/SPW/wiki)
