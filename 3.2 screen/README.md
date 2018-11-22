@@ -3,9 +3,9 @@
 
 ### Tools you need :
 ### 1- 1mm acrylic sheet 
-![](https://github.com/Gameboypi/SPW/blob/master/3.2%20screen/1-1.JPG)
+![](https://github.com/Gameboypi/SPW/blob/master/3.2%20screen/1-11.JPG)
 ### 2- Black tape 
-![](https://github.com/Gameboypi/SPW/blob/master/3.2%20screen/1-2.JPG)
+![](https://github.com/Gameboypi/SPW/blob/master/3.2%20screen/1-22.JPG)
 
 -----
 
