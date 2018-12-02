@@ -2,7 +2,7 @@
 ### PRE-MADE Raspberry Pi zero [RetroPie](https://retropie.org.uk/) image
  
 ### Specifications:
-- I2S adafruit audio
+- I2S Adafruit audio
 - Configure all the buttons
 - ILI9341 screen
 - Edit the system font size 
@@ -32,7 +32,7 @@
 -----
 
 ### Installing:
-unzip the image and burn it to your sd card using [Etcher](https://etcher.io/) or any similar application.
+Unzip the image and burn it to your SD card using [Etcher](https://etcher.io/) or any similar application.
 
 -----
 
