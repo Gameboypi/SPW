@@ -35,6 +35,3 @@ install the SP port and try it out, the charger should flash blue light so it's 
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/88.JPG)
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/99.JPG)
 ![](https://github.com/Gameboypi/SPW/blob/master/PCB%20Assembly/9999.JPG)
-
-
- 

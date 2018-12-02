@@ -1,7 +1,6 @@
 # X & Y BUTOTN
 
-
-### Tools you need :
+### Tools you need:
 ### 1-Step Drill Bit 
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/1.JPG)
 ### 2- Hot Glue Gun
@@ -34,6 +33,3 @@
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/16.JPG)
 ![](https://github.com/Gameboypi/SPW/blob/master/X_Y/17.JPG)
 -----
-
-
- 

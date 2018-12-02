@@ -1,7 +1,6 @@
 # 3.2 screen
 
-
-### Tools you need :
+### Tools you need:
 ### 1- 1mm acrylic sheet 
 ![](https://github.com/Gameboypi/SPW/blob/master/3.2%20screen/1-11.JPG)
 ### 2- Black tape 
@@ -9,7 +8,7 @@
 
 -----
 
-### install 3.2 screen
+### Install 3.2 screen
 ![](https://github.com/Gameboypi/SPW/blob/master/3.2%20screen/1.JPG)
 ### Cut a piece of the acrylic sheet with this dimensions.
 ![](https://github.com/Gameboypi/SPW/blob/master/3.2%20screen/2.JPG)
@@ -35,6 +34,3 @@
 ![](https://github.com/Gameboypi/SPW/blob/master/3.2%20screen/15.JPG)
 
 -----
-
-
- 
