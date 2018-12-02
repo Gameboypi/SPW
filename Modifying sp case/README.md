@@ -1,8 +1,8 @@
-# 1- Modifying sp case
+# 1- Modifying SP Case
 ### Remove all the parts indicated by the arrow
 
-![](https://github.com/Gameboypi/SPW/blob/master/Modifying%20sp%20case/1.JPG)
-![](https://github.com/Gameboypi/SPW/blob/master/Modifying%20sp%20case/2.JPG)
-![](https://github.com/Gameboypi/SPW/blob/master/Modifying%20sp%20case/3.JPG)
-![](https://github.com/Gameboypi/SPW/blob/master/Modifying%20sp%20cased/4.JPG)
-![](https://github.com/Gameboypi/SPW/blob/master/Modifying%20sp%20case/5.JPG)
+![](1.JPG)
+![](2.JPG)
+![](3.JPG)
+![](4.JPG)
+![](5.JPG)
