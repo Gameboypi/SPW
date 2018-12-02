@@ -1,4 +1,4 @@
-# 3- Final Assembly
+# Final Assembly
 
 ### Prepare your screen lens and lined them up on the screen
 ![](1.JPG)

@@ -1,7 +1,7 @@
 # X & Y BUTOTN
 
 ### Tools you need:
-### 1-Step Drill Bit 
+### 1- Step Drill Bit 
 ![](1.JPG)
 ### 2- Hot Glue Gun
 ![](1-2.JPG)

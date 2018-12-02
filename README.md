@@ -9,9 +9,9 @@ It's a simple PCB to powered your Game Boy SP with Raspberry Pi W
 - GPIO buttons " a + b + x + y + l + r + up + down + left + right + start + select "
 - TP4056 for charging 
 - Battery monitor ADS1015 "optional"
-- Support 2 way for charging 
+- Support 2 ways for charging 
 - [x] Original SP port
-- [x] Micro usb
+- [x] Micro USB
 
 -----
 

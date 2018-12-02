@@ -1,4 +1,4 @@
-# 1- Modifying SP Case
+# Modifying SP Case
 ### Remove all the parts indicated by the arrow
 
 ![](1.JPG)
