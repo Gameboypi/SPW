@@ -1,6 +1,8 @@
 ### IMPORTANT:
-# Pcb Thickness is 0.8 other than that will not fit!!! 
-![](https://github.com/Gameboypi/SPW/blob/master/Gerber%20files/1.jpg)
+# PCB Thickness is 0.8 other than that will not fit!!! 
+![](1.jpg)
+
 ------
+
 ### PINOUT
-![](https://github.com/Gameboypi/SPW/blob/master/Gerber%20files/2.jpg)
+![](2.jpg)

@@ -1,18 +1,19 @@
 ![](https://raw.githubusercontent.com/Gameboypi/SPW/master/images/retropie.png)
 ### PRE-MADE Raspberry Pi zero [RetroPie](https://retropie.org.uk/) image
  
-### Specifications :
-- I2s adafruit audio
+### Specifications:
+- I2S Adafruit audio
 - Configure all the buttons
-- ili9341 screen
+- ILI9341 screen
 - Edit the system font size 
 - Delete the samba 
 - Configure RetroArch settings
+- Battery monitor + safe shutdown by [HoolyHoo](https://github.com/HoolyHoo/Mintybatterymonitor)
 - Removing game start up box
 
 -----
 
-### Board shortcuts :
+### Board shortcuts:
 
 - Select + Dpad UP = `Volume Up`
 - Select + Dpad Down = `Volume Down`
@@ -25,13 +26,14 @@
 
 -----
 
-### Download link :
-##### [Click here]()
+### Download link:
+##### [Click here](https://www.mediafire.com/file/nraf0f8q0h4alni/SPW_v1.zip)
 
 -----
 
-### Installing :
-unzip the image and burn it to your sd card using [Etcher](https://etcher.io/) or any similar application.
+### Installing:
+Unzip the image and burn it to your SD card using [Etcher](https://etcher.io/) or any similar application.
 
 -----
-### Note : After you installed the image go to Retropie -> raspi-config -> Advanced Options -> Expand Filesystem and reboot . 
+
+### Note: After you installed the image go to Retropie -> raspi-config -> Advanced Options -> Expand Filesystem and reboot . 
