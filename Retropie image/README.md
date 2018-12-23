@@ -8,7 +8,6 @@
 - Edit the system font size 
 - Delete the samba 
 - Configure RetroArch settings
-- Battery monitor + safe shutdown by [HoolyHoo](https://github.com/HoolyHoo/Mintybatterymonitor)
 - Removing game start up box
 
 -----
@@ -27,7 +26,7 @@
 -----
 
 ### Download link :
-##### [Click here](https://www.mediafire.com/file/nraf0f8q0h4alni/SPW_v1.zip)
+##### [Click here]()
 
 -----
 
