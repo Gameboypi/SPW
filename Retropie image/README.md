@@ -8,7 +8,6 @@
 - Edit the system font size 
 - Delete the samba 
 - Configure RetroArch settings
-- Removing game start up box
 
 -----
 
@@ -20,19 +19,14 @@
 - Select + Dpad Left = `Change save state slots`
 - Select + A = `Save game States`
 - Select + B = `Load game States`
-- Holding L button = `Toggle Battery`
-- Holding Brightness button = `Shutdown the system`
+
 
 -----
 
 ### Download link:
-##### [Click here]()
+##### [Click here](https://drive.google.com/open?id=148r-MnYSLy4-oJxgjgLc_l6zv8uDW9Cg)
 
 -----
 
 ### Installing:
-Unzip the image and burn it to your SD card using [Etcher](https://etcher.io/) or any similar application.
-
------
-
-### Note: After you installed the image go to Retropie -> raspi-config -> Advanced Options -> Expand Filesystem and reboot . 
+Burn it to your SD card using [Etcher](https://etcher.io/) or any similar application.
