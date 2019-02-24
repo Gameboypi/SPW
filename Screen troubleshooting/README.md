@@ -2,7 +2,7 @@
 
 ### Tools you need:
 ### Multimeter 
-<img src="Multimeter.jpg" width="10%">
+<img src="Multimeter.jpg" width="30%">
 
 -----
 
