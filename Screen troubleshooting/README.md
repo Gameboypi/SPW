@@ -3,11 +3,11 @@
 
 ### Tools you need:
 ### Multimeter 
-<img src="Multimeter.jpg" width="30%">
+<img src="Multimeter.jpg" width="50%">
 
 -----
 
-### [How to test for continuity](https://www.fluke.com/en-us/learn/best-practices/test-tools-basics/digital-multimeters/how-to-test-for-continuity-with-a-digital-multimeter)
+### Read this : [How to test for continuity](https://www.fluke.com/en-us/learn/best-practices/test-tools-basics/digital-multimeters/how-to-test-for-continuity-with-a-digital-multimeter)
 Continuity symbol:
 
 <img src="continuity_mod.jpg" width="5%">
