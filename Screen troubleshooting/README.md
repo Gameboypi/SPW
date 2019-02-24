@@ -56,5 +56,4 @@ set the millimeter in the continuity mode and follow the steps (The multimeter m
 ![](Screen_test/9.jpg)
 ![](Screen_test/10.jpg)
 -----
-### If it does not work after all this
-I'm sure the screen is faulty. 
+### If it does not work after all this I'm sure the screen is faulty. :X
