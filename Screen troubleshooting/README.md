@@ -15,7 +15,7 @@ Set the millimeter in the continuity mode and follow the steps (The multimeter m
 
 
 ### Gpio check : 
-![](Screen troubleshooting/Gpio/1.JPG)
+![](/Gpio/1.jpg)
 ![](Gpio/2.JPG)
 ![](Gpio/3.JPG)
 ![](Gpio/4.JPG)
