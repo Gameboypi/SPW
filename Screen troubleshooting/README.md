@@ -36,14 +36,13 @@ set the millimeter in the continuity mode and follow the steps (The multimeter m
 
 ### Second connector check :
 <img src="Second_connector/1.jpg" width="50%">
-![](Second_connector/1.jpg)
-![](Second_connector/2.jpg)
-![](Second_connector/3.jpg)
-![](Second_connector/4.jpg)
-![](Second_connector/5.jpg)
-![](Second_connector/6.jpg)
-![](Second_connector/7.jpg)
-![](Second_connector/8.jpg)
+<img src="Second_connector/2.jpg" width="50%">
+<img src="Second_connector/3.jpg" width="50%">
+<img src="Second_connector/4.jpg" width="50%">
+<img src="Second_connector/5.jpg" width="50%">
+<img src="Second_connector/6.jpg" width="50%">
+<img src="Second_connector/7.jpg" width="50%">
+<img src="Second_connector/8.jpg" width="50%">
 
 ### Screen check :
 ![](Screen_test/1.jpg)
