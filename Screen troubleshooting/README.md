@@ -15,7 +15,7 @@ Follow these steps if your screen does not work, All what we will do is check th
 set the millimeter in the continuity mode and follow the steps (The multimeter must beeps in all the steps you take if not redo the soldering) :
 
 
-### 1. Gpio check : 
+### 1. GPIO check : 
 ![](Gpio/1.jpg)
 ![](Gpio/2.jpg)
 ![](Gpio/3.jpg)
