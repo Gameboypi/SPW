@@ -14,7 +14,7 @@ Follow these steps if the buttons do not work, All what we will do is check the 
 set the millimeter in the continuity mode and follow the steps (The multimeter must beeps in all the steps you take if not redo the soldering) :
 
 ### Button (A)
-![](11.jpg)
+<img src="/Buttons%20troubleshooting/11.jpg" width="50%">
 
 ### Button (B)
 ![](8.jpg)
