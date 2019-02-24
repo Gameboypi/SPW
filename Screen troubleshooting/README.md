@@ -35,7 +35,8 @@ set the millimeter in the continuity mode and follow the steps (The multimeter m
 ![](Main_connector/8.jpg)
 
 ### Second connector check :
-![width="5%"](Second_connector/1.jpg)
+<img src="Second_connector/1.jpg" width="10%">
+![](Second_connector/1.jpg)
 ![](Second_connector/2.jpg)
 ![](Second_connector/3.jpg)
 ![](Second_connector/4.jpg)
