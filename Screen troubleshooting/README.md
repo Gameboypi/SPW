@@ -1,5 +1,5 @@
 # Screen troubleshooting
-### First of all, make sure you're using my retropie image [Click here](https://github.com/Gameboypi/SPW/tree/master/Retropie%20image)
+### First of all, make sure you're using my retropie image [Click here](https://github.com/Gameboypi/SPW/blob/master/Retropie%20image/README.md)
 
 ### Tools you need:
 ### Multimeter 
