@@ -14,8 +14,8 @@ Follow these steps if the screen does not work, All what we will do is check the
 Set the millimeter in the continuity mode and follow the steps (The multimeter must beeps in all the steps you take if not redo the soldering) :
 
 
-### Gpio check.
-![](Gpio/1.JPG)
+### Gpio check : 
+![](Screen troubleshooting/Gpio/1.JPG)
 ![](Gpio/2.JPG)
 ![](Gpio/3.JPG)
 ![](Gpio/4.JPG)
@@ -24,7 +24,7 @@ Set the millimeter in the continuity mode and follow the steps (The multimeter m
 ![](Gpio/7.JPG)
 ![](Gpio/8.JPG)
 
-### First connector check.
+### First connector check :
 ![](/Main_connector/1.JPG)
 ![](Main_connector/2.JPG)
 ![](Main_connector/3.JPG)
@@ -34,7 +34,7 @@ Set the millimeter in the continuity mode and follow the steps (The multimeter m
 ![](Main_connector/7.JPG)
 ![](Main_connector/8.JPG)
 
-### Second connector check.
+### Second connector check :
 ![](Second_connector/1.JPG)
 ![](Second_connector/2.JPG)
 ![](Second_connector/3.JPG)
@@ -44,7 +44,7 @@ Set the millimeter in the continuity mode and follow the steps (The multimeter m
 ![](Second_connector/7.JPG)
 ![](Second_connector/8.JPG)
 
-### lcd check.
+### Screen check :
 ![](Screen_test/1.JPG)
 ![](Screen_test/2.JPG)
 ![](Screen_test/3.JPG)
