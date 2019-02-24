@@ -8,7 +8,7 @@
 
 ### [How to test for continuity](https://www.fluke.com/en-us/learn/best-practices/test-tools-basics/digital-multimeters/how-to-test-for-continuity-with-a-digital-multimeter)
 follow these steps if the screen does not work, All what we will do is check the tracks and soldiring if there are problems or bad connections
-Set the millimeter in the continuity mode and follow the steps (The multimeter must be beeps in all the steps you take) :
+Set the millimeter in the continuity mode and follow the steps (The multimeter must beeps in all the steps you take if not redo the soldering) :
 
 ![](continuity_mod.jpg)
 ### Gpio check.
@@ -22,7 +22,7 @@ Set the millimeter in the continuity mode and follow the steps (The multimeter m
 ![](Gpio/8.JPG)
 
 ### First connector check.
-![](Main_connector/1.JPG)
+![](/Main_connector/1.JPG)
 ![](Main_connector/2.JPG)
 ![](Main_connector/3.JPG)
 ![](Main_connector/4.JPG)
