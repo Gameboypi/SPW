@@ -8,7 +8,8 @@
 
 ### [How to test for continuity](https://www.fluke.com/en-us/learn/best-practices/test-tools-basics/digital-multimeters/how-to-test-for-continuity-with-a-digital-multimeter)
 continuity symbol:
-<img src="continuity_mod.jpg" width="5%">
+
+<img src="continuity_mod.jpg" width="2%">
 follow these steps if the screen does not work, All what we will do is check the tracks and soldiring if there are problems or bad connections
 Set the millimeter in the continuity mode and follow the steps (The multimeter must beeps in all the steps you take if not redo the soldering) :
 
