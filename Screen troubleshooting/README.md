@@ -45,15 +45,15 @@ set the millimeter in the continuity mode and follow the steps (The multimeter m
 <img src="Second_connector/8.jpg" width="50%">
 
 ### Screen check :
-![](Screen_test/1.jpg)
-![](Screen_test/2.jpg)
-![](Screen_test/3.jpg)
-![](Screen_test/4.jpg)
-![](Screen_test/5.jpg)
-![](Screen_test/6.jpg)
-![](Screen_test/7.jpg)
-![](Screen_test/8.jpg)
-![](Screen_test/9.jpg)
-![](Screen_test/10.jpg)
+<img src="Screen_test/1.jpg" width="50%">
+<img src="Screen_test/2.jpg" width="50%">
+<img src="Screen_test/3.jpg" width="50%">
+<img src="Screen_test/4.jpg" width="50%">
+<img src="Screen_test/5.jpg" width="50%">
+<img src="Screen_test/6.jpg" width="50%">
+<img src="Screen_test/7.jpg" width="50%">
+<img src="Screen_test/8.jpg" width="50%">
+
+
 -----
 ### If it does not work after all this I'm sure the screen is faulty. :X
