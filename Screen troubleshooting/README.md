@@ -11,7 +11,7 @@ follow these steps if the screen does not work, All what we will do is check the
 Set the millimeter in the continuity mode and follow the steps (The multimeter must beeps in all the steps you take if not redo the soldering) :
 
 continuity symbol:
-<img src="images/continuity_mod.jpg" width="20%">
+<img src="continuity_mod.jpg" width="20%">
 ### Gpio check.
 ![](Gpio/1.JPG)
 ![](Gpio/2.JPG)
