@@ -10,8 +10,8 @@
 Continuity symbol:
 
 <img src="continuity_mod.jpg" width="5%">
-Follow these steps if the screen does not work, All what we will do is check the tracks and soldiring if there are problems or bad connections
-Set the millimeter in the continuity mode and follow the steps (The multimeter must beeps in all the steps you take if not redo the soldering) :
+Follow these steps if the screen does not work, All what we will do is check the tracks and soldiring if there are problems or bad connections, 
+set the millimeter in the continuity mode and follow the steps (The multimeter must beeps in all the steps you take if not redo the soldering) :
 
 
 ### Gpio check : 
