@@ -1,5 +1,5 @@
 # Screen troubleshooting
-#### First of all, make sure you're using my retropie image [Click here](https://github.com/Gameboypi/SPW/tree/master/Retropie%20image)
+### First of all, make sure you're using my retropie image [Click here](https://github.com/Gameboypi/SPW/tree/master/Retropie%20image)
 
 ### Tools you need:
 ### Multimeter 
@@ -15,7 +15,7 @@ Follow these steps if the screen does not work, All what we will do is check the
 set the millimeter in the continuity mode and follow the steps (The multimeter must beeps in all the steps you take if not redo the soldering) :
 
 
-### Gpio check : 
+### 1. Gpio check : 
 ![](Gpio/1.jpg)
 ![](Gpio/2.jpg)
 ![](Gpio/3.jpg)
@@ -25,7 +25,7 @@ set the millimeter in the continuity mode and follow the steps (The multimeter m
 ![](Gpio/7.jpg)
 ![](Gpio/8.jpg)
 
-### First connector check :
+### 2. First connector check :
 ![](Main_connector/1.jpg)
 ![](Main_connector/2.jpg)
 ![](Main_connector/3.jpg)
@@ -35,7 +35,7 @@ set the millimeter in the continuity mode and follow the steps (The multimeter m
 ![](Main_connector/7.jpg)
 ![](Main_connector/8.jpg)
 
-### Second connector check :
+### 3. Second connector check :
 <img src="Second_connector/1.jpg" width="50%">
 <img src="Second_connector/2.jpg" width="50%">
 <img src="Second_connector/3.jpg" width="50%">
@@ -45,7 +45,7 @@ set the millimeter in the continuity mode and follow the steps (The multimeter m
 <img src="Second_connector/7.jpg" width="50%">
 <img src="Second_connector/8.jpg" width="50%">
 
-### Screen check :
+### 4. Screen check :
 <img src="Screen_test/1.jpg" width="50%">
 <img src="Screen_test/2.jpg" width="50%">
 <img src="Screen_test/3.jpg" width="50%">
