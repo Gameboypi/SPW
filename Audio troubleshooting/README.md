@@ -21,5 +21,6 @@ set the millimeter in the continuity mode and follow the steps (The multimeter m
 ![](6.jpg)
 ![](7.jpg)
 
+### Done!
 
 

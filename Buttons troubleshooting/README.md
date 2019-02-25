@@ -52,7 +52,7 @@ set the millimeter in the continuity mode and follow the steps (The multimeter m
 ### Button (R-Sholder)
 ![](12.jpg)
 
-
+### Done!
 
 
 

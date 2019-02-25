@@ -55,3 +55,5 @@ set the millimeter in the continuity mode and follow the steps (The multimeter m
 <img src="Screen_test/8.jpg" width="50%">
 <img src="Screen_test/9.jpg" width="50%">
 <img src="Screen_test/10.jpg" width="50%">
+
+### Done!
