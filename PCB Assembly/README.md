@@ -4,7 +4,7 @@
 +speaker ^
 ### Image of the PCB
 ![](2.JPG)
-### 1- `Top of the PCB` install your buttons + Adafruit I2S audio + screen connector
+### 1- `Front of the PCB` install your buttons + Adafruit I2S audio + screen connector
 ![](3.JPG)
 ### 2- `Back of the PCB` install your L&R Buttons + TP4506 charger + Battery terminal
 ![](4.JPG)
