@@ -33,7 +33,7 @@ It's a simple PCB to powered your Game Boy SP with Raspberry Pi W
 ### Troubleshooting:
 1. [Screen](Screen%20troubleshooting/README.md)
 2. [Audio](Audio%20troubleshooting/README.md)
-3. [Button](Buttons%20troubleshooting/README.md)
+3. [Buttons](Buttons%20troubleshooting/README.md)
 -----
 
 ### Parts List:
