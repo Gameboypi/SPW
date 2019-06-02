@@ -27,6 +27,7 @@ It's a simple PCB to powered your Game Boy SP with Raspberry Pi W
 ### Guides:
 1. [X & Y Buttons](X_Y/README.md)
 2. [3.2 screen](3.2%20screen/README.md)
+3. [3d printed parts](3d%20printed%20parts/README.md)
 
 -----
 
