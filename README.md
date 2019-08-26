@@ -1,16 +1,16 @@
 <img src="images/logo1.png" width="60%">
 
-It's a simple PCB to powered your Game Boy SP with Raspberry Pi W
+A simple PCB to power up your Game Boy Advance SP with a Raspberry Pi W
 
 ### Features:
 
 - Support 2 ILI9341 screen sizes 2.8 + 3.2
 - I2S audio
-- GPIO buttons " a + b + x + y + l + r + up + down + left + right + start + select "
+- GPIO buttons " a + b + x + y + l + r + up + down + left + right + start + select " (x & y optional)
 - TP4056 for charging 
-- Battery monitor ADS1015 "optional"
-- Support 2 ways for charging 
-- [x] Original SP port
+- Battery monitor ADS1015 (optional)
+- Supports 2 ways for charging 
+- [x] Original SP port (optional)
 - [x] Micro USB
 
 -----
@@ -45,11 +45,11 @@ It's a simple PCB to powered your Game Boy SP with Raspberry Pi W
 
 ### Note:
 - [x] Board thickness is `0.8` other than that will not fit.
-- [x] English is not my first language if you find any mistakes or something is not clear please let me know.
+- [x] English is not my first language, if you find any mistakes or something is not clear please let me know.
 - [x] I am not responsible for any damage you might get
-- [x] You must have experience in what you do "I'm not recommending if this your first build"
+- [x] You must have experience (I'm not recommending this as your first build)
 - [x] Buy a good quality housing 
-- [x] A little patience
+- [x] A little patience is required
 
 -----
 
