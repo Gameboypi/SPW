@@ -59,6 +59,8 @@ A simple PCB to power up your Game Boy Advance SP with a Raspberry Pi W
 -----
 
 ### Get In Touch:
+- #### <img src="https://s3.amazonaws.com/pas-wordpress-media/content/uploads/2015/03/Patreon-Logo.png" width="20px"> Patreon 
+https://www.patreon.com/gameboypi
 - #### <img src="images/ig.png" width="20px"> Instagram 
 https://www.instagram.com/gameboypi/
 - #### <img src="images/email.png" width="20px"> Email 
